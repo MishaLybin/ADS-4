@@ -8,7 +8,7 @@ int countPairs1(int *arr, int len, int value) {
       }
     }
   }
-  return sc;
+  return a;
 }
 int countPairs2(int *arr, int len, int value) {
   int a = 0;
